@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://zupimages.net/up/22/32/3yh7.png" width="80%" height="auto"/>
 
-<!--
-**Hikennn/Hikennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+# 👀 | About me
+Hi! I'm Hiken_D_Ace, a 18 years old Front-End Web Developer based in France. 
+I love UI/UX design and creative development. I'm currently working on [Lowarya](https://github.com/Lowarya). 
+In my free time, I like to play guitar 🎸 or video games 🎮 and I always listen to music 🎶.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+# 📫 | Contact me 
+You can contact me on my social media [Twitter](https://twitter.com/Hiken_D_Acee) and [Instagram](https://www.instagram.com/hikenn_d_ace)!
