@@ -3,11 +3,11 @@
 <br />
 
 # 👀 | About me
-Hi! I'm Hiken_D_Ace, a 18 years old Front-End Web Developer based in France. 
-I love UI/UX design and creative development. I'm currently working on [Lowarya](https://github.com/Lowarya). 
+Hi! I'm Hiken_D_Ace, I'm 18 Front-End Web Developer based in France. 
+I'm sensitive to UI/UX design and I love creative development. I'm currently working on [Lowarya](https://github.com/Lowarya). 
 In my free time, I like to play guitar 🎸 or video games 🎮 and I always listen to music 🎶.
 
 <br />
 
 # 📫 | Contact me 
-You can contact me on my social media [Twitter](https://twitter.com/Hiken_D_Acee) and [Instagram](https://www.instagram.com/hiken.ig)!
+You can talk to me on my social media [Twitter](https://twitter.com/Hiken_D_Acee) and [Instagram](https://www.instagram.com/hiken.ig)!
