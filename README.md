@@ -10,4 +10,4 @@ In my free time, I like to play guitar 🎸 or video games 🎮 and I always lis
 <br />
 
 # 📫 | Contact me 
-You can talk to me on my social media [Twitter](https://twitter.com/Hiken_D_Acee) and [Instagram](https://www.instagram.com/hiken.ig)!
+You can talk to me on my social media [Twitter](https://twitter.com/Hiken_D_Ace) and [Instagram](https://www.instagram.com/hiken.ig)!
